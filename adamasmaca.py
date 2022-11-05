@@ -1,5 +1,6 @@
 print("""*****BİLGİLENDİRME*****
-eğer bu kelimeler arasından tahmin yapmaz iseniz 5 kelime sonrasında hakkınız bitecektir.
+hatalı girdiğiniz her kelimede bir hak kaybedersiniz.
+yanlış tahmin yaptığınız her kelimede bir hak kaybedersiniz.
 Bu kelimeler arasından tahmin yapınız.
 *****"kuş","kedi","köpek","kaplumbağa","balık","kartal","kurbağa","ayı","arı","domuz","sinek","yarasa"*****""")
 import time
