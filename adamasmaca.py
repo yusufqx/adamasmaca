@@ -1,6 +1,3 @@
-bu oyun basit bir adam asmaca oyunudur 
-
-random kütüphanesi olmadığı için kodun başındaki cevap="kedi" kodundaki kedi yerine başka bir hayvan girin.(liste içindeki hayvanlardan olması gerek)
 print("""*****BİLGİLENDİRME*****
 hatalı girdiğiniz her kelimede bir hak kaybedersiniz.
 yanlış tahmin yaptığınız her kelimede bir hak kaybedersiniz.
